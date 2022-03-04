@@ -9,7 +9,7 @@
 
 | Project Name |  Description  |  Screenshot  |
 | :---         |     :---:     |  :---: |
-| Blog Website | This is dyanamic blog website with admin panel | <a href="https://github.com/mahibur01/php-blog"> <img src="./php-blog/blog_1.jpg?raw=true" alt="phpBlog"  width="400" height="200"></a>|
+| Blog Website | This is dyanamic blog website with admin panel | <a href="https://github.com/mahibur01/php-blog"> <img src="https://github.com/mahibur01/php-blog/blog_1.jpg?raw=true" alt="phpBlog"  width="400" height="200"></a>|
 
 
 ## License
