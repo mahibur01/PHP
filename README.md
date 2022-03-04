@@ -9,8 +9,8 @@
 
 | Project Name |  Description  |  Screenshot  |
 | :---         |     :---:     |  :---: |
-| :watch: digitalClock | This project will show real-time with digital digits | <a href="https://github.com/mahibur01/JavaScript/tree/main/Projects/digitalClock"> <img src="./Projects/digitalClock/screenshot.jpg?raw=true" alt="digitalClock"  width="400" height="200"></a>|
-| :speaker: speechToText | This project will convert your voice to text | <a href="https://github.com/mahibur01/JavaScript/tree/main/Projects/speechToText"> <img src="./Projects/speechToText/screenshot.jpg?raw=true" alt="digitalClock"  width="400" height="200"></a>|
+| Blog Website | This is dyanamic blog website with admin panel | <a href="https://github.com/mahibur01/php-blog"> <img src="./php-blog/blog_1.jpg?raw=true" alt="phpBlog"  width="400" height="200"></a>|
+
 
 ## License
 No Copyright, feel free to use for learn. 
